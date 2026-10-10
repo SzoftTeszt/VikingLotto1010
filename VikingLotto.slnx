@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="VikingInit/VikingInit.csproj" />
+  <Project Path="VikingKozos/VikingKozos.csproj" />
+  <Project Path="VikingSimulation/VikingSimulation.csproj" />
+  <Project Path="WebApi/WebApi.csproj" />
+</Solution>
